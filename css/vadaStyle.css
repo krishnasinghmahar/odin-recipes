@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+
+ul,ol{
+    display : inline-block;
+    text-align: left;
+    font-size: 20px;
+    color :darkgreen;
+}
+
+h1,h2{
+    background-color: green;
+    color: lightgreen;
+}
+
+p{
+    font-size: 20px;
+    padding: 2px;
+    color: green;
+}
+
+a{
+    background-color: blue;
+    font-size: larger;
+    color:white;
+}
+
+img{
+    border : solid darkgreen 4px;
+}

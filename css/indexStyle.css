@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    border: solid darkblue 4px;
+}
+
+h1{
+    background-color: aqua;
+    color : darkblue ;
+}
+
+a{
+    background-color:darkviolet;
+    border: solid violet;
+    color : darkblue;
+}
