@@ -1,6 +1,6 @@
 # odin-recipes 
 - Making first project of The Odin project
- - [live demo](https://krishnasinghmahar.github.io/odin-recipes/)
+ 👉 [live demo](https://krishnasinghmahar.github.io/odin-recipes/)
 
 ## introduction
 - This project is about basic html tags.
